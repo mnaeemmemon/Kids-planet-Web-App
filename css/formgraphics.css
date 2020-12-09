@@ -1,0 +1,43 @@
+.title{
+  text-align:center;
+  background-color: #D2480D;
+  border: solid;
+  height: 100px;
+  font-size: 80px;
+}
+.body{
+  background-color: #000000;
+}
+.table{
+  text-align:center;
+  background-color: #D2480D;
+  border:5px dashed White;
+  margin: 0px 350px 15px 500px;
+  padding: 0px 0px 0px 0px;
+  height: 400px;
+  width: 800px;
+}
+td{
+	font-size: 30px;
+}
+.line{
+	width: 400px;
+	height: 30px;
+	font-size:30px;
+	border-radius: 7px;
+}
+.select{
+	width: 400px;
+	height: 30px;
+	font-size:20px;
+	border-radius: 7px;
+}
+.Button{
+	width: 150px;
+	height: 40px;
+	font-size:30px;
+	font-weight: bold;
+	color: #D2480D;
+	background-color: black;
+	border-radius: 7px;	
+}
